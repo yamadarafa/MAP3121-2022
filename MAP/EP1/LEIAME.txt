@@ -1,0 +1,26 @@
+===========================================
+Instruçoes para execuçao do EP1 
+===========================================
+
+Linguagem usada: Python 3.10.4
+downloead feito no: https://www.python.org/
+
+Bibliotecas necessarias:
+- numpy
+- math
+
+Interface do programa:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1 - Decompor matriz M que eh triangularizavel pelo Metodo de Gauss sem trocas de linhas em LU
+2 - Decompor matriz tridiagonal M em LU
+3 - Resolver sistema linear tridiagonal
+4 - Rodar teste de sistema linear tridiagonal ciclico sugerido no enunciado
+5 - sair
+
+Digite sua opcao
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Ao Digitar a opcao sera direcionado para uma das 5 opcoes. caso digite uma opcao invalida sera imprimido
+na tela: "------------ OPCAO INVALIDA ------------"
+Ao digitar "5" imprimirá "fim do progama " e o programa será encerrado.
+
+**Além do arquivo.py, o relatório em pdf e o LEIAM.txt na pasta compactada possui o executavel do programa "EP1.exe"

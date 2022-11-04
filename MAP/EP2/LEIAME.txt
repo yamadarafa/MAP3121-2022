@@ -1,0 +1,28 @@
+===========================================
+Instruçoes para execuçao do EP2
+===========================================
+
+Linguagem usada: Python 3.10.4
+download feito no: https://www.python.org/
+
+Bibliotecas necessarias:
+- numpy
+- math
+
+Interface do programa:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+----------------------DIGITE A OPCAO----------------------
+1 - resultado exempolo 1 
+2 - resultado exempolo 2 
+3 - resultado exempolo 3 
+4 - resultado exempolo 4 
+5 - Integral dupla dxdy qualquer
+0 - para sair
+Digite sua opcao
+
+Digite sua opcao
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Ao Digitar a opcao sera direcionado para uma das 5 opcoes. caso digite uma opcao invalida reotrnara para tela anterior 
+Ao digitar "0" o programa será encerrado.
+
+*Além do arquivo.py, o relatório em pdf e o LEIAME.txt na pasta compactada possui o executavel do programa "EP2.exe"

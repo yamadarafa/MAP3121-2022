@@ -1,0 +1,24 @@
+===========================================
+Instruçoes para execuçao do EP3
+===========================================
+
+Linguagem usada: Python 3.10.4
+download feito no: https://www.python.org/
+
+Bibliotecas necessarias:
+- numpy
+- math
+
+Interface do programa:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+----------------------DIGITE A OPCAO----------------------
+1 - Validacao 1 
+2 - Validacao 2 
+3 - solucao para L(u(x)) := (-k(x)u(x)')' + q(x)u(x) = f(x) no intervalo L
+4 - Equilibrio com forcantes de calor
+0 - para sair
+Digite sua opcao
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Ao Digitar a opcao sera direcionado para uma das 5 opcoes. caso digite uma opcao invalida reotrnara para tela anterior 
+Ao digitar "0" o programa será encerrado.
+
